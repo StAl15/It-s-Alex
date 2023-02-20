@@ -25,6 +25,4 @@
   
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StAl15&theme=transparent&show_icons=true)](https://github.com/StAl15/github-readme-stats)
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StAl15&theme=solarized_dark)
