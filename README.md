@@ -23,9 +23,14 @@
   ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StAl15&theme=transparent&show_icons=true)](https://github.com/StAl15/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StAl15&theme=transparent&show_icons=true)](https://github.com/StAl15/github-readme-stats)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StAl15&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StAl15&theme=solarized_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StAl15&theme=solarized_dark)
+
 
 ![github-user-contribution](https://user-images.githubusercontent.com/73172033/220138936-2fbd3879-6482-40d1-852d-7f3357f8686d.svg)
 
