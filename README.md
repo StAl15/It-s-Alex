@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://alexportfolio-five.vercel.app/" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Full-stack developer who can do anything 👨‍💻 </h3>
+<h3 align="center">Frontend developer who can do everything 👨‍💻 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=78&lines=Really+cool+guy;Whom+makes+this+world+better)](https://git.io/typing-svg)
 
