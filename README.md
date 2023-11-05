@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer who can do everything 👨‍💻 </h3>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=78&lines=Really+cool+guy;Whom+makes+this+world+better)](https://git.io/typing-svg)
 
 
@@ -19,6 +20,8 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=StAl15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StAl15&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StAl15&theme=github_dark)
