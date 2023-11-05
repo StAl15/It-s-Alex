@@ -28,8 +28,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StAl15&theme=github_dark)
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StAl15&theme=transparent&show_icons=true)](https://github.com/StAl15/github-readme-stats)
-
-
 ![github-user-contribution](https://user-images.githubusercontent.com/73172033/220138936-2fbd3879-6482-40d1-852d-7f3357f8686d.svg)
 
